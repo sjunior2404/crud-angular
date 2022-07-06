@@ -11,7 +11,7 @@ Projeto gerado com [Angular CLI](https://github.com/angular/angular-cli) versão
 
 
 
-![CRUD Angular](./imgs/index.png)
+![CRUD Angular](./imgs/index.PNG)
 &nbsp;
 ---
-![CRUD Angular](./imgs/cadastro.png)
+![CRUD Angular](./imgs/cadastro.PNG)
